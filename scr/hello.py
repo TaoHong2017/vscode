@@ -5,3 +5,6 @@ def add(new_line):
 
 def remove(line):
     print(line)
+
+def add_feature_branch():
+    print('new feature')
